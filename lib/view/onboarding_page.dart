@@ -16,7 +16,7 @@ class OnBoardingPage extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              Text('Quran App',
+              Text('Quran Pocket',
                   style: GoogleFonts.poppins(
                       color: Colors.black,
                       fontSize: 20,

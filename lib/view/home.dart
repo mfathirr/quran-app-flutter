@@ -147,7 +147,7 @@ class HomeScreen extends StatelessWidget {
               width: 16,
             ),
             Text(
-              'Quran App',
+              'Quran Pocket',
               style: GoogleFonts.poppins(
                   color: Colors.purple,
                   fontSize: 18,
